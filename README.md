@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 # Kristopher Manalo
-University of California, San Diego
+**University of California, San Diego**
