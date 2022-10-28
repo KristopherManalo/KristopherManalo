@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-## Kristopher Manalo
-# University of California, San Diego
+# Kristopher Manalo
+University of California, San Diego
