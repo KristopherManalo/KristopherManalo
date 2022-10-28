@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-# Kristopher Manalo
-**University of California, San Diego**
+## Kristopher Manalo
+First-year student at University of California, San Diego, majoring in Computer Engineering
