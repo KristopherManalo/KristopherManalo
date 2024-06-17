@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 ## Kristopher Manalo
-Second-year student at University of California, San Diego, majoring in Computer Engineering
+Third-year student at University of California, San Diego, majoring in Computer Engineering
