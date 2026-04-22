@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 
-## Kristopher Manalo
-Third-year student at University of California, San Diego, majoring in Computer Engineering
